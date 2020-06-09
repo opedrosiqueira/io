@@ -1,6 +1,6 @@
 # io
 
-simple static method for java standard input/output
+simple static methods for java standard input/output
 
 it encapsulates as static methods the public methods of
 the JavaSE System.out and Scanner objects.
