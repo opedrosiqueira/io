@@ -1692,7 +1692,7 @@ public final class io {
      * <p>
      * This method might block waiting for more input.
      *
-     * @apiNote For example, the following code will create a list of
+     * For example, the following code will create a list of
      * comma-delimited tokens from a string:
      *
      * <pre>{@code
@@ -1752,7 +1752,7 @@ public final class io {
      * method might block waiting for additional input, and it might buffer an
      * unbounded amount of input searching for a match.
      *
-     * @apiNote For example, the following code will read a file and return a
+     * For example, the following code will read a file and return a
      * list of all sequences of characters consisting of seven or more Latin
      * capital letters:
      *
