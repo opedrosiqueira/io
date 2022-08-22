@@ -8,3 +8,10 @@ the JavaSE System.out and Scanner objects.
 the purpose of this class is to make calls to
 Scanner/System.out methods simpler and
 less verbose to read/write from/to standard input/output.
+
+Maven:
+   <dependency>
+      <groupId>com.github.opedrosiqueira</groupId>
+      <artifactId>io</artifactId>
+      <version>0.1</version>
+   </dependency>
